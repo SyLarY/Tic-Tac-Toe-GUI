@@ -72,10 +72,10 @@ namespace TicTacToe
             for (int i = 0; i < loopList.Count - 2; i++)
             {
                 int num1 = loopList[i];
-                for (int j = 1; j < loopList.Count - 1; j++)
+                for (int j = i+1; j < loopList.Count - 1; j++)
                 {
                     int num2 = loopList[j];
-                    for (int k = 2; k < loopList.Count; k++)
+                    for (int k = j+1; k < loopList.Count; k++)
                     {
                         int num3 = loopList[k];
                         if ((num1 + num2 + num3) == 15) 

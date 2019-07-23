@@ -12,3 +12,13 @@ H:\COMP 123\TicTacToe\TicTacToe Warm Up\obj\Debug\TicTacToe Warm Up.exe
 H:\COMP 123\TicTacToe\TicTacToe Warm Up\obj\Debug\TicTacToe Warm Up.pdb
 H:\COMP 123\TicTacToe\TicTacToe Warm Up\bin\Debug\TicTacToe.exe.config
 H:\COMP 123\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Kim\Project Portfolio\Tic-Tac-Toe-GUI\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
